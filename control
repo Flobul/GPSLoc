@@ -1,0 +1,9 @@
+Package: com.flobul.gpsloc
+Name: gpsloc
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Simple CLI utility to get GPS coordinates
+Maintainer: Flobul <flobul.jeedom@gmail.com>
+Author: Flobul <flobul.jeedom@gmail.com>
+Section: System
+Tag: role::hacker
